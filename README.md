@@ -1,2 +1,2 @@
 # myProject
-#Introduce data for the project (sketch)
+#Introduce data for the MSc project (sketch)
